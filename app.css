@@ -1,4 +1,24 @@
+body {
+  background-image: url(http://cdn.playbuzz.com/cdn/b1581f3e-858f-4209-a112-5b919b0b2247/174433d6-0f1e-4f3b-ba7a-1ddb843c38b9.jpg);
+  color: pink;
+
+}
 .info-field{
   width:100%;
   margin-bottom:10px;
+}
+h1 {
+  text-align: center;
+}
+.wrapper {
+  width: 900px;
+  margin:0 auto;
+}
+
+form label {
+  text-align: left
+}
+input {
+  margin-left: 100px;
+
 }
